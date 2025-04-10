@@ -1,0 +1,37 @@
+--------------------------------------------
+Baofeng Public License v1.0 (BFPL-1.0)
+--------------------------------------------
+
+I. Definition of Terms
+1. "Baofeng" refers to Fujian Baofeng Electronics Co., Ltd. and its affiliated subsidiaries.
+2. "Open-source content" refers to the firmware source code, documentation, and tool software of Baofeng radio products released by Baofeng.
+3. "User" refers to any individual or entity that obtains or uses the "open-source content or derivative content based on the open-source content."
+
+II. Purpose of the License
+This Baofeng Public License aims to regulate the use of Baofeng radio products' open-source content, clarify the rights and obligations of all parties, and state the disclaimer of liability.
+
+III. Open-Source Content
+Open-source content refers to the firmware source code, documentation, and tool software of specific models of Baofeng radio products released by Baofeng, intended for users to learn and study radio technology.
+
+IV. Rights of Users
+1. Users have the right to view and study the open-source content to understand the relevant knowledge of radio products.
+2. Users have the right to modify the open-source content and create derivative content based on it.
+3. Users have the right to distribute the modified open-source content and derivative content for personal, non-commercial purposes, provided they comply with global radio regulations.
+4. When distributing modified open-source content and derivative content, this agreement must be retained, along with the original Baofeng copyright statement.
+
+V. Obligations and Responsibilities of Users
+1. Before using the open-source content and derivative content, users must confirm that they have read and understood all terms of this agreement. Users agree to bear full responsibility for any violations of laws and regulations.
+2. When using, modifying, or distributing the open-source content and derivative content, users must comply with all applicable radio communication regulations and standards. Any modifications based on the open-source content involving changes to technical specifications (such as transmission frequency, power, modulation mode, etc.) must be conducted within the permissible scope of regulations.
+3. Users shall not use the open-source content for any illegal purposes, including but not limited to interfering with other legal radio communications, using unauthorized frequency bands, and other illegal uses.
+4. Users shall not use the open-source content for any commercial purposes, including but not limited to selling, transferring, licensing, leasing, etc.
+5. Users shall not remove any copyright statements, trademarks, or other rights statements from the open-source content.
+
+VI. Disclaimer
+1. Baofeng provides the open-source content solely for technical sharing purposes. Baofeng does not guarantee the completeness, accuracy, or applicability of the open-source content. Users' use of the open-source content is entirely at their own risk.
+2. Baofeng shall not bear any direct or indirect legal liability for any actions conducted by users based on the open-source content.
+
+VII. Amendment of the Agreement
+Baofeng reserves the right to modify this open-source agreement when necessary. Users are responsible for regularly checking the agreement content to confirm modification details.
+
+VIII. Scope of Application
+This agreement applies to all users who obtain and use Baofeng's open-source content.
