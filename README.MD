@@ -19,7 +19,7 @@ The code is intended to be compiled with the PlatformIO IDE extension for VS Cod
 Click "PlatformIO Core CLI" from VSCode PlatformIO Panel -> Quick Access -> Miscellaneous.
 Enter below install commands:
 ```
-pio pkg install -g -p https://github.com/amoxu/platform-openradiox
+pio pkg install -g -p https://github.com/cnt7/BAOFENG-UV-K6-Firmware
 ```
 
 When you are using Linux, you need to install the udev rules for OpenOCD
