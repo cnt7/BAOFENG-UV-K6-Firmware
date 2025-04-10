@@ -1,0 +1,11 @@
+linkmap.map
+bf_uvk6
+/*.bin
+/*.hex
+/out/
+**/*.o
+**/*.i
+**/*.s
+!Libraries/CMSIS/Device/suport/**/*.s
+.vscode
+.pio
