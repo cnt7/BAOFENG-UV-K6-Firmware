@@ -1,0 +1,47 @@
+{
+    "name": "BAOFENG UV-K6x Radios Firmware",
+    "title": "BAOFENG UV-K6x FIRMWARE OPEN SOURCE",
+    "description": "OpenRadioX is project aimed to support development of opensourced Two Way Radios.",
+    "homepage": "https://github.com/amoxu/platform-openradiox",
+    "license": "Apache-2.0",
+    "keywords": [
+        "ARM",
+        "Two Way Radio"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/cnt7/BAOFENG-UV-K6-Firmware.git"
+    },
+    "engines": {
+        "platformio": "^5"
+    },
+    "version": "1.0.0",
+    "frameworks": {
+        "cmsis": {
+            "package": "framework-cmsis",
+            "script": "builder/frameworks/cmsis.py",
+            "description": "The ARM Cortex Microcontroller Software Interface Standard (CMSIS) is a vendor-independent hardware abstraction layer for the Cortex-M processor series and specifies debugger interfaces. The CMSIS enables consistent and simple software interfaces to the processor for interface peripherals, real-time operating systems, and middleware. It simplifies software re-use, reducing the learning curve for new microcontroller developers and cutting the time-to-market for devices",
+            "homepage": "https://developer.arm.com/tools-and-software/embedded/cmsis",
+            "title": "CMSIS"
+        }
+    },
+    "packages": {
+        "toolchain-gccarmnoneeabi": {
+            "type": "toolchain",
+            "owner": "platformio",
+            "version": ">=1.60301.0,<1.80000.0"
+        },
+        "framework-cmsis": {
+          "type": "framework",
+          "owner": "platformio",
+          "version": "~2.50501.0",
+          "optionalVersions": [
+            "~2.50900.0"
+          ]
+        },
+        "tool-openocd-kd32": {
+            "type": "uploader",
+            "version": "https://github.com/cnt7/tool-openocd-kd32.git"
+        }
+    }
+}
