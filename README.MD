@@ -1,6 +1,4 @@
-# SOURCE CODE FOR BAOFENG UV-K6x Radios
-# BAOFENG-UV-K6-Firmware CNT7 UPLOAD
-# BAOFENG-UV-K6_RADIO-Open_Source_Firmware
+# SOURCE CODE FOR BAOFENG UV-K6x Radios-CNT7 UPLOAD
 ## Introduction
 
 This repository contains the firmware source code for the Baofeng UV-K6x series of radios. The code is written in C and is intended to be compiled with the GCC compiler. The code is released under the BFPL-1.0 license.
